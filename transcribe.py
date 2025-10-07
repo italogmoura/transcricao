@@ -6,8 +6,8 @@ Otimizado para computadores leves (MacBook Air, etc)
 Instala dependências automaticamente se necessário
 
 Uso:
-  python transcribe_final.py              # Transcreve arquivos no diretório atual
-  python transcribe_final.py /caminho     # Transcreve arquivos no caminho especificado
+  python transcribe.py              # Transcreve arquivos no diretório atual
+  python transcribe.py /caminho     # Transcreve arquivos no caminho especificado
 """
 
 import os
