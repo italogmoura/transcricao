@@ -1,0 +1,50 @@
+# Audio files
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.aac
+*.ogg
+*.wma
+*.opus
+
+# Video files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+*.webm
+*.m4v
+*.mpg
+*.mpeg
+*.3gp
+
+# Transcription output files
+transcricao_*.txt
+*_transcribed.txt
+*_transcription.txt
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
